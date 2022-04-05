@@ -1,4 +1,4 @@
-React APP LINK:lettercalcich.ccbp.tech
+React APP LINK:https://lettercalcich.ccbp.tech/
 Developed an react application where user can get the count of letters entered in the input element.
 This application is an responsive one.
 It includes react components, props, state, css flex box.
